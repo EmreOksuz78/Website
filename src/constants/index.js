@@ -44,34 +44,34 @@ export const PROJECTS = [
     title: "Besin Projesi",
     image: project1,
     description:
-      "A fully functional e-commerce website with features like product listing, shopping cart, and user authentication.",
+      "Besin Projesi tanitim yapilacak.",
     technologies: ["Kotlin", "Retrofit", "Room"],
   },
   {
     title: "Chat Application",
     image: project2,
     description:
-      "An application for managing tasks and projects, with features such as task creation, assignment, and progress tracking.",
+      "Chat Application Tanitim yapilacak.",
     technologies: ["Java", "Firebase", "Retrofit"],
   },
   {
     title: "Api Uygulamasi",
     image: project3,
     description:
-      "A personal portfolio website showcasing projects, skills, and contact information.",
+      "Api Uygulamasi Tanitim yapilacak.",
     technologies: ["React Native", "Firebase", "Axios"],
   },
   {
     title: "Shopping List",
     image: project4,
     description:
-      "A platform for creating and publishing blog posts, with features like rich text editing, commenting, and user profiles.",
+      "Shopping List Tanitim Yapilacak.",
     technologies: ["Swift", "CoreData"],
   },
 ];
 
 export const CONTACT = {
   address: "İstanbul/Turkey ",
-  phoneNo: "+90 535 073 34 78 ",
+  phoneNo: "+90 000 000 00 00 ",
   email: "emreksz.78@gmail.com",
 };
